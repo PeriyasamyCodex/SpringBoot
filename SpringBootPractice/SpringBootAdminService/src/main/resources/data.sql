@@ -1,0 +1,9 @@
+insert into employee(EMP_ID,EMP_ADDRESS,EMP_BLOOD_GROUP,EMP_DATE_OF_BIRTH,EMP_EMAIL,EMP_FIRST_NAME,EMP_LAST_NAME,EMP_PHONE)
+values(001,'ADDR1','B+ve',{ts '1990-12-24 12:47:52.69'},'joan@gmail.com','joan','palanivel','9999999999');
+insert into employee(EMP_ID,EMP_ADDRESS,EMP_BLOOD_GROUP,EMP_DATE_OF_BIRTH,EMP_EMAIL,EMP_FIRST_NAME,EMP_LAST_NAME,EMP_PHONE)
+values(002,'ADDR2','B+ve',{ts '1990-12-24 12:47:52.69'},'hermoine@gmail.com','hermoine','grenger','9999999990');
+
+insert into customer(CUST_ID,CUST_ADDRESS,CUST_BLOOD_GROUP,CUST_DATE_OF_BIRTH,CUST_EMAIL,CUST_FIRST_NAME,CUST_LAST_NAME,CUST_PHONE)
+values(001,'ADDR3','B+ve',{ts '1990-12-24 12:47:52.69'},'harrypotter@gmail.com','harry','potter','9999999922');
+insert into customer(CUST_ID,CUST_ADDRESS,CUST_BLOOD_GROUP,CUST_DATE_OF_BIRTH,CUST_EMAIL,CUST_FIRST_NAME,CUST_LAST_NAME,CUST_PHONE)
+values(002,'ADDR4','B+ve',{ts '1990-12-24 12:47:52.69'},'ronwiesley@gmail.com','ron','wiesly','9999999933');
